@@ -79,3 +79,12 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+
+
+## POV's
+1. pnpm init
+1. pnpm typescript
+1. pnpm nodemon
+1. pnpm ts-node
+1. pnpm install socket.io
+1. npm i --save-dev @types/node
