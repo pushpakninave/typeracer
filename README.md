@@ -79,3 +79,17 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+
+
+POV'S : 
+1. `pnpx create-turbo@latest typeracer` : creates project with turbo repo.
+2. `pnpm` : space effecient
+3. `pnpm init` : creates new package.json 
+4. `pnpm install -D typescript nodemon ts-node` : installing it as developer dependencies. nodemon is a tool to auto restart node application when file changes are detected [nodemon-info](https://www.npmjs.com/package/nodemon) here and ts-node is a TypeScript execution engine. which enables you to directly run TypeScript on Node.js without precompiling. [more info](https://www.npmjs.com/package/ts-node#overview)
+5. `pnpm install socket.io` : for installing socket.io. Socket.IO enables real-time bidirectional event-based communication. 
+    [more info](https://www.npmjs.com/package/socket.io)
+    
+    It consists of:
+    - a Node.js server
+    - a Javascript client library for the browser
+6. `npx tsc --init` : initializing config file for TypeScript 
