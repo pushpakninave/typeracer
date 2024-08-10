@@ -93,3 +93,4 @@ POV'S :
     - a Node.js server
     - a Javascript client library for the browser
 6. `npx tsc --init` : initializing config file for TypeScript 
+7. `pnpm install -D @types/node` : This package contains type definitions for node. 
